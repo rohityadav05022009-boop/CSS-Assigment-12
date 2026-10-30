@@ -1,0 +1,24 @@
+*{
+    margin: o;
+    padding: 0;
+}
+.btn1{
+    padding: 6px;
+    width: 300px;
+    margin-bottom: 15px;
+}
+.btn2{
+    padding: 6px;
+    width: 300px;
+    
+}
+.btn3{
+    padding: 6px;
+    width: 300px;
+    background-color: blueviolet;
+    
+}
+.h1{
+    margin-top: 120px;
+    margin-left: 30px;
+}
